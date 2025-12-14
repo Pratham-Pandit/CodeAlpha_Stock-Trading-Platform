@@ -136,8 +136,7 @@ This project intentionally avoids databases to:
 ---
 
 ## 👤 Author
-**Your Name**  
-(Java Developer / Student)
+Pratham Pandit
 
 ---
 
