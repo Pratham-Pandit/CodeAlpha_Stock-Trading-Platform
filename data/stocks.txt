@@ -1,0 +1,3 @@
+AAPL,Apple Inc,180.50
+TSLA,Tesla Inc,240.75
+GOOG,Alphabet Inc,135.20

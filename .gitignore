@@ -1,0 +1,58 @@
+# ===============================
+# Java Compiled Files
+# ===============================
+*.class
+*.jar
+*.war
+*.ear
+
+# ===============================
+# Build Directories
+# ===============================
+/bin/
+/out/
+/target/
+
+# ===============================
+# Logs
+# ===============================
+*.log
+
+# ===============================
+# OS Generated Files
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# IDE Files
+# ===============================
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# NetBeans
+/nbproject/private/
+
+# ===============================
+# Temporary Files
+# ===============================
+*.tmp
+*.temp
+*.swp
+*~
+
+# ===============================
+# Optional: Ignore Generated Data Files
+# (Comment these if you want to commit data)
+# ===============================
+# data/portfolio.txt
+# data/transactions.txt
